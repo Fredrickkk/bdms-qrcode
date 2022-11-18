@@ -42,6 +42,7 @@
 <link rel="alternate" type="application/rss+xml" title="Philippine Red Cross &raquo; Feed" href="https://redcross.org.ph/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Philippine Red Cross &raquo; Comments Feed" href="https://redcross.org.ph/comments/feed/" />
 <script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/redcross.org.ph\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -157,7 +158,7 @@ gtag("config", "G-WR7HBWZNKJ");
 
 .uk-accordion-title::after{content: "+";
 color:#ffffff;
-background: #b92f2f1;
+background: #b92f2f;
 border-radius: 10px;
 	height:1.3em !important;
 padding: 1px 0 !important;text-align:center;}
@@ -492,7 +493,7 @@ li:nth-child(5) .uk-navbar-dropdown[style]{
 <nav class="uk-navbar-container" uk-navbar>
 <div class="uk-navbar-center">
 <a class="uk-navbar-item uk-logo" href="https://redcross.org.ph">
-<img src="C:\xampp\htdocs\cts_qr\uploads\logo-968682b9.png.webp" srcset="C:\xampp\htdocs\cts_qr\uploads\logo-968682b9.png.webp 100w, /wp-content/themes/yootheme/cache/logo-e4359285.png 200w" sizes="(min-width: 100px) 100px" data-width="535" data-height="529" class="uk-responsive-height" alt="Philippine Red Cross"> </a>
+<img src="/wp-content/themes/yootheme/cache/logo-968682b9.png" srcset="/wp-content/themes/yootheme/cache/logo-968682b9.png 100w, /wp-content/themes/yootheme/cache/logo-e4359285.png 200w" sizes="(min-width: 100px) 100px" data-width="535" data-height="529" class="uk-responsive-height" alt="Philippine Red Cross"> </a>
 </div>
 <div class="uk-navbar-right">
 <a class="uk-navbar-toggle" href="#tm-mobile" uk-toggle="animation: true">
@@ -565,8 +566,8 @@ li:nth-child(5) .uk-navbar-dropdown[style]{
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="HFV6H6F4XQUHQ" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_PH/i/scr/pixel.gif" width="1" height="1" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="10" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="10" src="https://www.paypal.com/en_PH/i/scr/pixel.gif" width="1" height="1" />
 </form></div>
 </div>
 </div>
@@ -665,6 +666,7 @@ li:nth-child(5) .uk-navbar-dropdown[style]{
 <div class="uk-flex-middle" uk-grid>
 <div class="uk-width-1-1">
 <div class="uk-margin" uk-scrollspy-class>
+<a href="https://donate.redcrossredcrescent.org/ph/emergencyappealpaeng/~my-donation" class="el-link"><img data-src="/wp-content/themes/yootheme/cache/emergency-appeal-paeng-63843fe2.jpeg" data-srcset="/wp-content/themes/yootheme/cache/emergency-appeal-paeng-93847231.jpeg 768w, /wp-content/themes/yootheme/cache/emergency-appeal-paeng-25b9ff46.jpeg 1024w, /wp-content/themes/yootheme/cache/emergency-appeal-paeng-b60479ba.jpeg 1366w, /wp-content/themes/yootheme/cache/emergency-appeal-paeng-f2018643.jpeg 1600w, /wp-content/themes/yootheme/cache/emergency-appeal-paeng-9d6f1abd.jpeg 1920w, /wp-content/themes/yootheme/cache/emergency-appeal-paeng-63843fe2.jpeg 2560w" data-sizes="(min-width: 2560px) 2560px" data-width="2560" data-height="790" class="el-image" alt uk-img></a>
 </div>
 </div>
 </div>
@@ -896,26 +898,6 @@ Latest News
 <div class="blog_filter_main">
 
 <div id="bf_gallery_1" class="filtr-container filters-div " style="opacity:0;">
-<div id="bf_5617" data-category="17" data-sort="News and Events" class=" pfg_theme_1 filtr-item filtr_item_1 single_one col-lg-4 col-md-4 col-sm-6 col-xs-12">
-<div class="bf_thumb_box_1 hvr-shadow-radial">
-<div class="bf_title_box_1">
-<h3 class="bf_title_1">PRC Bakuna Buses in Mindanao, ICRC impressed</h3>
-</div>
-<figure class="snip1550">
-<img title="PRC bakuna buses goes to Mindanao with ICRC Vice President" class="portfolio_thumbnail" src="https://redcross.org.ph/wp-content/uploads/2022/11/ICRC-VP-Carbonnier-impressed-with-PRC-Bakuna-buses-300x300.jpg" alt="PRC bakuna buses goes to Mindanao with ICRC Vice President">
-</figure>
-<div class="bf_title_box_2">
-<div class="metaInfo">
-<span><i class="fa fa-calendar"></i> <a href="https://redcross.org.ph/2022/11/16/">16 November, 2022</a> </span>
-</div>
-<div class="bf_desc_1">
-The Covid-19 pandemic upended the lives of vulnerable people living in geographically isolated and d... </div>
-<div class="bf_read_more_div_1">
-<a class="snip0047 bf_read_more_1" href="https://redcross.org.ph/2022/11/16/prc-bakuna-buses-in-mindanao-icrc-impressed/" target=""><span>Read More</span><i class="fa fa-link"></i></a>
-</div>
-</div>
-</div>
-</div>
 <div id="bf_5602" data-category="17" data-sort="News and Events" class=" pfg_theme_1 filtr-item filtr_item_1 single_one col-lg-4 col-md-4 col-sm-6 col-xs-12">
 <div class="bf_thumb_box_1 hvr-shadow-radial">
 <div class="bf_title_box_1">
@@ -994,7 +976,7 @@ Clean potable water is the major lifeline that was disrupted by Severe Tropical 
 <a class="snip0047 bf_read_more_1" href="https://redcross.org.ph/2022/11/04/ph-red-cross-water-tankers-continue-to-supply-water-to-paeng-affected-communities-in-laguna-maguindanao-cotabato-city-zamboanga-city/" target=""><span>Read More</span><i class="fa fa-link"></i></a>
 </div>
 </div>
- </div>
+</div>
 </div>
 <div id="bf_5580" data-category="17" data-sort="News and Events" class=" pfg_theme_1 filtr-item filtr_item_1 single_one col-lg-4 col-md-4 col-sm-6 col-xs-12">
 <div class="bf_thumb_box_1 hvr-shadow-radial">
@@ -1049,7 +1031,7 @@ Even before Severe Tropical Storm Paeng (international name: Nalgae) made landfa
 <span><i class="fa fa-calendar"></i> <a href="https://redcross.org.ph/2022/10/29/">29 October, 2022</a> </span>
 </div>
 <div class="bf_desc_1">
- The Philippine Red Cross is escalating its emergency relief efforts to reach hundreds of vulnerable ... </div>
+The Philippine Red Cross is escalating its emergency relief efforts to reach hundreds of vulnerable ... </div>
 <div class="bf_read_more_div_1">
 <a class="snip0047 bf_read_more_1" href="https://redcross.org.ph/2022/10/29/ph-red-cross-steps-up-to-the-plate-for-those-affected-by-sts-paeng/" target=""><span>Read More</span><i class="fa fa-link"></i></a>
 </div>
@@ -1136,6 +1118,26 @@ Following the 6.4 magnitude earthquake that hit Abra and contiguous provinces Oc
 </div>
 </div>
 </div>
+<div id="bf_5484" data-category="17" data-sort="News and Events" class=" pfg_theme_1 filtr-item filtr_item_1 single_one col-lg-4 col-md-4 col-sm-6 col-xs-12">
+<div class="bf_thumb_box_1 hvr-shadow-radial">
+<div class="bf_title_box_1">
+<h3 class="bf_title_1">Philippine Red Cross Health Caravan provides medical services to more than 2,000 people in October</h3>
+</div>
+<figure class="snip1550">
+<img title="Red Cross health caravan" class="portfolio_thumbnail" src="https://redcross.org.ph/wp-content/uploads/2022/10/312898703_6140413199326694_3591518077051057918_n-225x300.jpg" alt="Red Cross health caravan">
+</figure>
+<div class="bf_title_box_2">
+<div class="metaInfo">
+<span><i class="fa fa-calendar"></i> <a href="https://redcross.org.ph/2022/10/27/">27 October, 2022</a> </span>
+</div>
+<div class="bf_desc_1">
+More than 2,000 clients and patients from Baguio City, Bataan, Batangas City, Bulacan, Ilocos Norte,... </div>
+<div class="bf_read_more_div_1">
+<a class="snip0047 bf_read_more_1" href="https://redcross.org.ph/2022/10/27/philippine-red-cross-health-caravan-provides-medical-services-to-more-than-2000-people-in-october/" target=""><span>Read More</span><i class="fa fa-link"></i></a>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="loader"></div>
 <div style="text-align: center; 
@@ -1146,7 +1148,7 @@ Following the 6.4 magnitude earthquake that hit Abra and contiguous provinces Oc
 <a class="page-numbers" href="https://redcross.org.ph/page/2/">2</a>
 <a class="page-numbers" href="https://redcross.org.ph/page/3/">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="https://redcross.org.ph/page/34/">34</a>
+<a class="page-numbers" href="https://redcross.org.ph/page/33/">33</a>
 <a class="next page-numbers" href="https://redcross.org.ph/page/2/"><i class="fa fa-caret-right"></i></a></div>
 </nav> </div>
 </div>
@@ -1316,6 +1318,7 @@ READ MORE
 </div>
 </div>
 </div>
+
 <div class="uk-section-secondary uk-section">
 <div class="uk-container">
 <div class="uk-grid-large uk-grid-margin-large" uk-grid>
@@ -1459,7 +1462,8 @@ $(this).attr('href','#'+$(this).attr('href').split('#')[1]);
 </div>
 </div>
 <div class="uk-hidden uk-section-default uk-section">
- <div class="uk-container">
+
+<div class="uk-container">
 <div class="uk-grid-margin" uk-grid>
 <div class="uk-width-1-1@m">
 <div>
